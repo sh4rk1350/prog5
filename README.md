@@ -9,9 +9,9 @@
 
 Для демонстрации удаленного импорта не локально используется  GitHub Pages:
 
-[Созданный репозиторий](https://github.com/JunHerz/prog5_lw1)
+[Созданный репозиторий](https://github.com/sh4rk1350/prog5_lw1)
 
-[Запущенный сайт](https://junherz.github.io/prog5_lw1/):
+[Запущенный сайт](https://sh4rk1350.github.io/prog5_lw1/):
 
 ![activation_script](image/im3.JPG)
 
