@@ -11,9 +11,6 @@
 
 [Созданный репозиторий](https://github.com/sh4rk1350/prog5_lw1)
 
-[Запущенный сайт](https://sh4rk1350.github.io/prog5_lw1/):
-
-![activation_script](image/im3.JPG)
-
+[Запущенный сайт](https://sh4rk1350.github.io/prog5_lw1/)
 
 
