@@ -15,8 +15,5 @@
 
 ![activation_script](image/im3.JPG)
 
-Результат работы:
-
-![activation_script](image/im4.JPG)
 
 
