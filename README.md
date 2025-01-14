@@ -1,5 +1,3 @@
-# Лабораторная работа №1
-
 Запуск файлов myremotemodule.py и activation_script локально:
 
 ![myremotemodule.py](image/im1.JPG)
